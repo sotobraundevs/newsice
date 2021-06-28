@@ -1,0 +1,24 @@
+{
+  "name": "nuevosice",
+  "version": "1.0.0",
+  "description": "This is the new site of Sice",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotobraundevs/newsice.git"
+  },
+  "author": "Adrián Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotobraundevs/newsice/issues"
+  },
+  "homepage": "https://github.com/sotobraundevs/newsice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
